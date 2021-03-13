@@ -1,0 +1,28 @@
+.form-group
+{
+margin-bottom: 1rem;
+
+}
+
+#mainContainer
+{
+    background-color: rgba(195, 190, 190, 0.561);
+    border-radius: 2%;
+    
+}
+
+#userNameAlert , #userAgeAlert ,#userNationalityAlert
+{
+    height: 30px !important;
+    padding: 1px !important;
+}
+
+#userEmailAlert
+{
+    height: 50px !important;
+    padding: 1px !important;
+}
+
+
+
+
